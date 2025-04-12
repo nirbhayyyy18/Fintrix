@@ -1,1 +1,1 @@
-# MONEYMOSAIC - A Finance Tracker WebApp
+# Fintrix - A Finance Tracker WebApp
